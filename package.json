@@ -1,0 +1,23 @@
+{
+  "name": "sportsblog",
+  "version": "1.0.0",
+  "description": "Simple Sports Blog App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubhangam333",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "connect-flash": "*",
+    "express": "*",
+    "express-message": "*",
+    "express-messages": "^1.0.1",
+    "express-session": "*",
+    "express-validator": "^5.3.0",
+    "moment": "*",
+    "mongoose": "*",
+    "pug": "^3.0.0"
+  }
+}
